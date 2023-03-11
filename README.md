@@ -1,7 +1,7 @@
 # Implement Nested-Loop Algorithm for Outlier Detection
 ## Description
 Course: Data Mining and Knowledge Discovery (Fall 2021) <br />
-Task: Write own program
+Task: Write own code
 
 
 > A distance-based outlier detection method consults the neighborhood of an object, which is defined by a given radius. An object is then considered an outlier if its neighborhood does not have enough other points.
